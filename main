@@ -6,7 +6,6 @@
 
 int main()
 {
-    int m, n, i, j, **Arr = NULL, d, **Arr4 = NULL;
     float **Arr2 = NULL, *Arr3 = NULL;
     
     printf("\nEnter n and m\nn = ");
